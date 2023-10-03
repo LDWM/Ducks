@@ -9,6 +9,6 @@ font-size: 30;
 width: 1440;
 height: 131;
 flex-shrink: 0;    
-border-bottom: 1 solid rgba(32, 88, 115, 0.70);
-box-shadow: 0 8 10 0 rgba(0, 0, 0, 0.25);
+border-bottom: 1 solid #000000;
+box-shadow: 0 8 10 0 #000000;
 }
