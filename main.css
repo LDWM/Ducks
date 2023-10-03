@@ -1,6 +1,9 @@
 .body {
-    background-color: #C1CDD2
+    background-color: #C1CDD2;
+      font-family: Arial;
+  margin: 0;
 }
+
 .header {
     padding: 20px;
 text-align: left;
