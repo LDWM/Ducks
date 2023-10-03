@@ -2,10 +2,10 @@
     background-color: #C1CDD2
 }
 .header {
+    padding: 20px;
 text-align: left;
 background: #205873;
 color: white;
-font-size: 30px;
 width: 1440px;
 height: 131px;
 flex-shrink: 0;    
