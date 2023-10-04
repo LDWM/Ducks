@@ -21,7 +21,10 @@ box-shadow: 0 px 8 px 10 px 0 px #205873B2;
    }  
 
 
-
+h1 {
+    -webkit-text-stroke: 2 px black; /* width and color */
+    font-family: inter; 
+}
     
 /* Page Content */
 .content 
