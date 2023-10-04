@@ -20,7 +20,13 @@ box-shadow: 0 px 8 px 10 px 0 px #205873B2;
   right: 0;
    }  
 
-
+.h1 {
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
     
 /* Page Content */
 .content 
