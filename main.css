@@ -6,18 +6,18 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 30 px;
-   width: 1940 px;
+padding: 0 px;
+width: 1940 px;
 height: 231 px;
 flex-shrink: 0;
 border-bottom: 1 px solid #205873B2;
 background: #205873;
 box-shadow: 0 px 8 px 10 px 0 px #205873B2;
-     display: flex;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
+display: flex;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
    }  
 
 
