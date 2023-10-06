@@ -21,7 +21,9 @@ right: 0;
    }  
 
 img{
-  position:right;}
+  margin-right:0px;
+margin-top:0px;
+}
     
 /* Page Content */
 content 
